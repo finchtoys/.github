@@ -12,7 +12,7 @@ skills, and MCP integrations. Built on the open source project
 [Changelog](https://finchwork.app/en/changelog) ·
 [finchwork.app](https://finchwork.app/)
 
-![Finch](https://raw.githubusercontent.com/finchtoys/finch-releases/main/home.jpg)
+![Finch](https://raw.githubusercontent.com/finchtoys/.github/main/profile/home.webp)
 
 ## Facts
 
