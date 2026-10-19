@@ -24,14 +24,6 @@ skills, and MCP integrations. Built on the open source project
 | Models | 13+ cloud model providers, plus local models — you supply your own API key |
 | Extensibility | Mini tools, skills, MCP servers |
 | Interface languages | Simplified Chinese, English |
-| Built on | [Pi](https://pi.dev/) |
-
-> **Not to be confused with** — several unrelated products share the name Finch:
-> the [container development tool](https://runfinch.com/), the
-> [payroll and HR API](https://www.tryfinch.com/),
-> [Finch 3D](https://www.finch3d.com/) for architecture, and
-> [FinchAI](https://finchai.com/) for text analysis. This organization publishes
-> the desktop AI agent at [finchwork.app](https://finchwork.app/).
 
 ## What it does
 
